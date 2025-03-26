@@ -1,0 +1,101 @@
+Type1,Type2,Type3,Type4,Text
+Email,Other,Service,No action,Subject: I'm unhappy with the... I'm unhappy with the service and request a refund. Delete my account.
+Email,Other,Feedback,Subscription cancellation,I'm unhappy with the service and request a refund. Delete my account.
+Email,Suggestion,Service,No action,"Subject: Noticed a payment gl... Noticed a payment glitch, just FYI. No action needed now."
+Email,Other,Feedback,Subscription cancellation,You should enhance the service quality. Cancel my subscription please.
+Email,Suggestion,Refund,Subscription retained,"Subject: Noticed a payment gl... Noticed a payment glitch, just FYI. No action needed now."
+Email,Suggestion,Feedback,Account deletion,You should enhance the service quality. Cancel my subscription please.
+Email,Other,Service,Account deletion,Subject: How do I get a refun... How do I get a refund? But I want to keep my subscription.
+Email,Complaint,Refund,Subscription cancellation,Subject: Can you tell me more... Can you tell me more about your service? I'd like to keep my subscription.
+Email,Inquiry,Feedback,No action,How do I get a refund? But I want to keep my subscription. Thanks for your attention.
+Email,Inquiry,Refund,Account deletion,You should enhance the service quality. Cancel my subscription please.
+Email,Inquiry,Feedback,Subscription retained,Subject: Payment issues again... Payment issues again! Refund me and delete my account.
+Email,Other,Service,No action,You should enhance the service quality. Cancel my subscription please. Thanks for your attention.
+Email,Complaint,Payment,Subscription cancellation,Payment issues again! Refund me and delete my account. Thanks for your attention.
+Email,Complaint,Feedback,Account deletion,Can you tell me more about your service? I'd like to keep my subscription.
+Email,Other,Payment,Account deletion,Subject: You should enhance t... You should enhance the service quality. Cancel my subscription please.
+Email,Other,Refund,Account deletion,You should enhance the service quality. Cancel my subscription please. Thanks for your attention.
+Email,Inquiry,Feedback,Subscription retained,Can you tell me more about your service? I'd like to keep my subscription.
+Email,Other,Feedback,Subscription retained,Payment issues again! Refund me and delete my account. Thanks for your attention.
+Email,Other,Refund,Subscription retained,Can you tell me more about your service? I'd like to keep my subscription.
+Email,Inquiry,Feedback,Subscription cancellation,Subject: How do I get a refun... How do I get a refund? But I want to keep my subscription.
+Email,Other,Feedback,Subscription retained,Subject: I'm unhappy with the... I'm unhappy with the service and request a refund. Delete my account.
+Email,Suggestion,Refund,Subscription retained,Just wanted to give some feedback: your app is great! No changes needed. Thanks for your attention.
+Email,Other,Refund,Subscription retained,I'm unhappy with the service and request a refund. Delete my account.
+Email,Inquiry,Payment,Subscription cancellation,"Noticed a payment glitch, just FYI. No action needed now. Thanks for your attention."
+Email,Suggestion,Refund,Subscription retained,"Subject: Hi, I suggest improv... Hi, I suggest improving your payment system. Please cancel my subscription."
+Email,Inquiry,Refund,Subscription cancellation,I'm unhappy with the service and request a refund. Delete my account. Thanks for your attention.
+Email,Complaint,Service,Subscription cancellation,Just wanted to give some feedback: your app is great! No changes needed.
+Email,Complaint,Payment,Subscription retained,How do I get a refund? But I want to keep my subscription.
+Email,Other,Service,Subscription cancellation,"Subject: Hi, I suggest improv... Hi, I suggest improving your payment system. Please cancel my subscription."
+Email,Suggestion,Feedback,No action,Subject: Can you tell me more... Can you tell me more about your service? I'd like to keep my subscription.
+Email,Inquiry,Feedback,No action,Can you tell me more about your service? I'd like to keep my subscription. Thanks for your attention.
+Email,Suggestion,Payment,No action,How do I get a refund? But I want to keep my subscription. Thanks for your attention.
+Email,Suggestion,Payment,Account deletion,I'm unhappy with the service and request a refund. Delete my account.
+Email,Inquiry,Service,Subscription retained,Subject: Can you tell me more... Can you tell me more about your service? I'd like to keep my subscription.
+Email,Other,Refund,Subscription cancellation,How do I get a refund? But I want to keep my subscription.
+Email,Inquiry,Service,No action,"Hi, I suggest improving your payment system. Please cancel my subscription."
+Email,Other,Service,Subscription cancellation,"Hi, I suggest improving your payment system. Please cancel my subscription. Thanks for your attention."
+Email,Inquiry,Service,No action,Just wanted to give some feedback: your app is great! No changes needed. Thanks for your attention.
+Email,Complaint,Refund,Subscription retained,I'm unhappy with the service and request a refund. Delete my account.
+Email,Suggestion,Feedback,Account deletion,I'm unhappy with the service and request a refund. Delete my account.
+Email,Other,Payment,Account deletion,How do I get a refund? But I want to keep my subscription. Thanks for your attention.
+Email,Inquiry,Refund,Subscription retained,How do I get a refund? But I want to keep my subscription.
+Email,Inquiry,Service,Subscription retained,Subject: Can you tell me more... Can you tell me more about your service? I'd like to keep my subscription.
+Email,Suggestion,Refund,Subscription cancellation,Payment issues again! Refund me and delete my account. Thanks for your attention.
+Email,Inquiry,Refund,No action,"Hi, I suggest improving your payment system. Please cancel my subscription. Thanks for your attention."
+Email,Suggestion,Feedback,No action,Can you tell me more about your service? I'd like to keep my subscription. Thanks for your attention.
+Email,Suggestion,Feedback,Subscription cancellation,Payment issues again! Refund me and delete my account. Thanks for your attention.
+Email,Inquiry,Refund,Subscription retained,How do I get a refund? But I want to keep my subscription. Thanks for your attention.
+Email,Other,Feedback,Subscription retained,"Subject: Hi, I suggest improv... Hi, I suggest improving your payment system. Please cancel my subscription."
+Email,Complaint,Feedback,No action,Can you tell me more about your service? I'd like to keep my subscription.
+Email,Complaint,Refund,Subscription cancellation,Subject: Payment issues again... Payment issues again! Refund me and delete my account.
+Email,Inquiry,Payment,No action,Subject: You should enhance t... You should enhance the service quality. Cancel my subscription please.
+Email,Other,Payment,Subscription cancellation,Subject: You should enhance t... You should enhance the service quality. Cancel my subscription please.
+Email,Suggestion,Service,Subscription retained,I'm unhappy with the service and request a refund. Delete my account. Thanks for your attention.
+Email,Other,Refund,Account deletion,Can you tell me more about your service? I'd like to keep my subscription. Thanks for your attention.
+Email,Other,Refund,Account deletion,"Noticed a payment glitch, just FYI. No action needed now. Thanks for your attention."
+Email,Complaint,Service,Account deletion,You should enhance the service quality. Cancel my subscription please.
+Email,Complaint,Refund,Account deletion,I'm unhappy with the service and request a refund. Delete my account. Thanks for your attention.
+Email,Suggestion,Service,Account deletion,"Noticed a payment glitch, just FYI. No action needed now."
+Email,Inquiry,Refund,No action,Subject: Can you tell me more... Can you tell me more about your service? I'd like to keep my subscription.
+Email,Complaint,Payment,No action,"Noticed a payment glitch, just FYI. No action needed now. Thanks for your attention."
+Email,Other,Feedback,Account deletion,How do I get a refund? But I want to keep my subscription. Thanks for your attention.
+Email,Complaint,Feedback,Subscription retained,Subject: Can you tell me more... Can you tell me more about your service? I'd like to keep my subscription.
+Email,Complaint,Service,Subscription retained,"Noticed a payment glitch, just FYI. No action needed now."
+Email,Inquiry,Feedback,Account deletion,"Subject: Hi, I suggest improv... Hi, I suggest improving your payment system. Please cancel my subscription."
+Email,Suggestion,Payment,Subscription retained,"Noticed a payment glitch, just FYI. No action needed now. Thanks for your attention."
+Email,Other,Refund,No action,Subject: How do I get a refun... How do I get a refund? But I want to keep my subscription.
+Email,Inquiry,Service,No action,Payment issues again! Refund me and delete my account. Thanks for your attention.
+Email,Complaint,Refund,Subscription cancellation,Subject: You should enhance t... You should enhance the service quality. Cancel my subscription please.
+Email,Inquiry,Refund,Account deletion,Can you tell me more about your service? I'd like to keep my subscription.
+Email,Complaint,Payment,Subscription retained,"Subject: Hi, I suggest improv... Hi, I suggest improving your payment system. Please cancel my subscription."
+Email,Suggestion,Payment,No action,Can you tell me more about your service? I'd like to keep my subscription. Thanks for your attention.
+Email,Suggestion,Service,No action,Subject: How do I get a refun... How do I get a refund? But I want to keep my subscription.
+Email,Suggestion,Service,Account deletion,Payment issues again! Refund me and delete my account.
+Email,Complaint,Payment,Account deletion,Payment issues again! Refund me and delete my account. Thanks for your attention.
+Email,Inquiry,Service,No action,Payment issues again! Refund me and delete my account. Thanks for your attention.
+Email,Inquiry,Feedback,Subscription retained,"Noticed a payment glitch, just FYI. No action needed now."
+Email,Complaint,Payment,Subscription cancellation,You should enhance the service quality. Cancel my subscription please. Thanks for your attention.
+Email,Inquiry,Refund,No action,I'm unhappy with the service and request a refund. Delete my account.
+Email,Inquiry,Refund,Subscription cancellation,"Hi, I suggest improving your payment system. Please cancel my subscription."
+Email,Suggestion,Service,Account deletion,"Noticed a payment glitch, just FYI. No action needed now. Thanks for your attention."
+Email,Inquiry,Payment,Subscription cancellation,"Subject: Noticed a payment gl... Noticed a payment glitch, just FYI. No action needed now."
+Email,Complaint,Service,Subscription retained,Just wanted to give some feedback: your app is great! No changes needed. Thanks for your attention.
+Email,Other,Refund,No action,Subject: I'm unhappy with the... I'm unhappy with the service and request a refund. Delete my account.
+Email,Suggestion,Service,Account deletion,How do I get a refund? But I want to keep my subscription.
+Email,Suggestion,Service,No action,Subject: Just wanted to give ... Just wanted to give some feedback: your app is great! No changes needed.
+Email,Inquiry,Service,Subscription cancellation,I'm unhappy with the service and request a refund. Delete my account.
+Email,Inquiry,Feedback,Account deletion,Just wanted to give some feedback: your app is great! No changes needed.
+Email,Inquiry,Refund,Subscription cancellation,I'm unhappy with the service and request a refund. Delete my account.
+Email,Inquiry,Feedback,Subscription cancellation,I'm unhappy with the service and request a refund. Delete my account.
+Email,Inquiry,Feedback,Subscription retained,"Noticed a payment glitch, just FYI. No action needed now. Thanks for your attention."
+Email,Suggestion,Payment,Subscription cancellation,"Subject: Hi, I suggest improv... Hi, I suggest improving your payment system. Please cancel my subscription."
+Email,Inquiry,Service,Subscription cancellation,Subject: Just wanted to give ... Just wanted to give some feedback: your app is great! No changes needed.
+Email,Other,Service,Subscription retained,Subject: How do I get a refun... How do I get a refund? But I want to keep my subscription.
+Email,Inquiry,Service,Subscription retained,Can you tell me more about your service? I'd like to keep my subscription. Thanks for your attention.
+Email,Inquiry,Service,No action,"Noticed a payment glitch, just FYI. No action needed now. Thanks for your attention."
+Email,Complaint,Service,Account deletion,Subject: I'm unhappy with the... I'm unhappy with the service and request a refund. Delete my account.
+Email,Inquiry,Feedback,No action,Subject: Just wanted to give ... Just wanted to give some feedback: your app is great! No changes needed.
+Email,Suggestion,Feedback,Account deletion,Can you tell me more about your service? I'd like to keep my subscription.
+Email,Complaint,Feedback,Account deletion,You should enhance the service quality. Cancel my subscription please.
